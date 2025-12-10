@@ -1,9 +1,9 @@
 <div align="center">
 
 # 🔧 **CODEC – END USER LICENSE AGREEMENT (EULA)**  
-*A Discord Bot by **volk.va***  
+*A Discord Bot by **volk.v***  
 GitHub: https://github.com/MadeInAmbrosia  
-Discord: **volk.va**
+Discord: **volk.v**
 
 _Last Updated: 2025-12-10_
 
@@ -13,7 +13,7 @@ _Last Updated: 2025-12-10_
 
 # 1. Introduction
 
-This End User License Agreement (“Agreement”, “License”, “EULA”) is a legal contract between **you** (“the User”) and **volk.va** (“the Owner”, “the Author”) regarding the software project known as **Codec** (“the Software”).
+This End User License Agreement (“Agreement”, “License”, “EULA”) is a legal contract between **you** (“the User”) and **volk.v** (“the Owner”, “the Author”) regarding the software project known as **Codec** (“the Software”).
 
 By downloading, installing, hosting, executing, or otherwise using the Software, you agree that you:
 
@@ -39,7 +39,7 @@ You may self-host **unlimited instances** of Codec.
 You may reuse **small portions** of the Software’s source code in your own projects if:
 
 - You include visible attribution in code comments, such as:  
-  > `# Code snippet originally created by volk.va (github.com/MadeInAmbrosia)`  
+  > `# Code snippet originally created by volk.v (github.com/MadeInAmbrosia)`  
 - You do not misrepresent the borrowed code as entirely your own work.
 
 ---
@@ -49,7 +49,7 @@ You may reuse **small portions** of the Software’s source code in your own pro
 Reuse of the **entire project**, or substantial portions of it, is **not permitted** unless you obtain **written approval** from the Owner.
 
 ### 3.1 Request Procedure  
-You must send the following to **volk.va** via Discord DM:
+You must send the following to **volk.v** via Discord DM:
 
 - Your **GitHub profile link**  
 - Your **Discord username and ID**  
@@ -60,7 +60,7 @@ Approval is **not guaranteed**, granted at the Owner’s discretion, and may be 
 ### 3.2 Attribution Requirement  
 If your request is approved, you must prominently credit the Software:
 
-> **This project includes components from Codec by volk.va (https://github.com/MadeInAmbrosia)**
+> **This project includes components from Codec by volk.v (https://github.com/MadeInAmbrosia)**
 
 ### 3.3 Misrepresentation Clause  
 Any attempt to claim:
@@ -70,7 +70,7 @@ Any attempt to claim:
 - Behavior  
 - Functionality  
 
-**not originating from Codec** as work by **volk.va** results in:
+**not originating from Codec** as work by **volk.v** results in:
 
 - Immediate termination of this License  
 - Revocation of all granted permissions  
@@ -82,7 +82,7 @@ Any attempt to claim:
 
 Any publicly visible instance of Codec, such as a Discord bot profile, **must** contain:
 
-> **Bot functionality and code provided by: volk.va (https://github.com/MadeInAmbrosia)**
+> **Bot functionality and code provided by: volk.v (https://github.com/MadeInAmbrosia)**
 
 Removing or hiding this credit violates this EULA.
 
